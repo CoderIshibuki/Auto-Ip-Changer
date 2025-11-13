@@ -120,16 +120,21 @@ Auto IP Changer/
 
 Dự án được phân phối theo **giấy phép MIT**.
 
-## 🤝 Đóng góp
+## 🌸 Đóng góp cho dự án
 
-Đóng góp luôn được chào đón! Hãy:
+Rất vui khi bạn muốn đóng góp cho dự án! Các bước tham gia:
 
-1. **Fork** dự án
-2. **Tạo branch mới** (`git checkout -b feature/AmazingFeature`)
-3. **Commit thay đổi** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push đến branch** (`git push origin feature/AmazingFeature`)
-5. **Tạo Pull Request**
+### 🔄 Quy trình đóng góp:
+1. **Fork** repository về tài khoản của bạn
+2. **Tạo branch mới** cho tính năng/sửa lỗi
+3. **Commit** code với mô tả rõ ràng
+4. **Push** code lên repository của bạn
+5. **Tạo Pull Request** để gửi đóng góp
 
+### 💡 Lưu ý:
+- Mô tả rõ ràng về thay đổi
+- Kiểm tra kỹ trước khi gửi PR
+- Cùng nhau xây dựng cộng đồng mã nguồn mở Việt Nam!
 ## ⚠️ Lưu ý quan trọng
 
 - 💡 **Chỉ hoạt động trên Windows**
@@ -154,6 +159,6 @@ Cảm ơn những người đóng góp đã giúp dự án này tốt hơn!
 **Made with ❤️ for the Vietnamese developer community**
 
 ---
-*Phiên bản 1.0.0 - Cập nhật tháng 12/2024*
+*Phiên bản 1.0.0 - Cập nhật tháng 11/2025*
 
 ---
