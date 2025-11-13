@@ -1,0 +1,19 @@
+GIẤY PHÉP SỬ DỤNG PHẦN MỀM
+AUTO IP CHANGER
+
+1. Chấp nhận điều khoản
+Bằng việc cài đặt và sử dụng phần mềm này, bạn đồng ý với các điều khoản sau.
+
+2. Quyền sử dụng
+- Được sử dụng miễn phí cho mục đích cá nhân và thương mại
+- Được phép phân phối nhưng không được sửa đổi
+
+3. Hạn chế
+- Không được reverse engineering phần mềm
+- Không sử dụng cho mục đực bất hợp pháp
+
+4. Từ chối bảo hành
+Phần mềm được cung cấp "NHƯ HIỆN CÓ" không có bất kỳ bảo hành nào.
+
+5. Tác giả
+Phần mềm được phát triển bởi Auto IP Changer Team
