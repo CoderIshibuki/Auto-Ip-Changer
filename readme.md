@@ -142,7 +142,7 @@ Dự án được phân phối theo **giấy phép MIT**.
 Nếu bạn gặp vấn đề:
 
 1. **Kiểm tra phần** [Xử lý sự cố](#-xử-lý-sự-cố)
-2. **Tạo** [Issue](https://github.com/coderishibuki/auto-ip-changer/issues) mới
+2. **Tạo** [Issue](https://github.com/CoderIshibuki/auto-ip-changer/issues) mới
 3. **Mô tả chi tiết** sự cố và cách tái tạo
 
 ## 🏆 Người đóng góp
