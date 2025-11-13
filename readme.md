@@ -45,8 +45,8 @@ Nếu bạn đã đóng gói thành công file setup.exe theo hướng dẫn, h�
 
 1. **Clone Repository** (Nếu có) hoặc tải file:
 ```bash
-git clone [LINK_REPO_CỦA_BẠN]
-cd [TÊN_THƯ_MỤC]
+git clone https://github.com/CoderIshibuki/Auto-Ip-Changer
+cd Auto-Ip-Changer
 ```
 
 2. **Cài đặt các thư viện cần thiết:**
