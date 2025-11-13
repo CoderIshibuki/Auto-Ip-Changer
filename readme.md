@@ -76,15 +76,6 @@ python ip_changer_windows.py
 - **Python** 3.8+
 - **Thư viện:** `tkinter`, `psutil`, `pyinstaller`
 
-### **Build thành file exe**
-```bash
-# Cài đặt dependencies
-pip install pyinstaller psutil
-
-# Build thành file thực thi
-pyinstaller --onefile --windowed --name "AutoIPChanger" --icon=icon.ico ip_changer_windows.py
-```
-
 ## 🔧 Xử lý sự cố
 
 ### **Lỗi thường gặp**
