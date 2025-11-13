@@ -118,7 +118,7 @@ Auto IP Changer/
 
 ## 📄 Giấy phép
 
-Dự án được phân phối theo **giấy phép MIT**. Xem file [LICENSE](LICENSE) để biết thêm chi tiết.
+Dự án được phân phối theo **giấy phép MIT**.
 
 ## 🤝 Đóng góp
 
@@ -142,7 +142,7 @@ Dự án được phân phối theo **giấy phép MIT**. Xem file [LICENSE](LIC
 Nếu bạn gặp vấn đề:
 
 1. **Kiểm tra phần** [Xử lý sự cố](#-xử-lý-sự-cố)
-2. **Tạo** [Issue](https://github.com/your-repo/auto-ip-changer/issues) mới
+2. **Tạo** [Issue](https://github.com/coderishibuki/auto-ip-changer/issues) mới
 3. **Mô tả chi tiết** sự cố và cách tái tạo
 
 ## 🏆 Người đóng góp
