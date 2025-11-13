@@ -1,8 +1,8 @@
-# 🚀 Auto IP Changer v3 - Modern UI (Windows)
+2# 🚀 Auto IP Changer v2 - Modern UI (Windows)
 
 ## 📝 Giới thiệu
 
-Auto IP Changer v3 là một công cụ tiện ích mạnh mẽ được thiết kế để tự động thay đổi địa chỉ IPv4 của máy tính Windows (thường được cấp bởi DHCP Server của Router) một cách định kỳ hoặc thủ công.
+Auto IP Changer v2 là một công cụ tiện ích mạnh mẽ được thiết kế để tự động thay đổi địa chỉ IPv4 của máy tính Windows (thường được cấp bởi DHCP Server của Router) một cách định kỳ hoặc thủ công.
 
 Ứng dụng này sử dụng các lệnh PowerShell và Netsh ở chế độ quản trị (Administrator) để buộc Network Adapter phải xin cấp phát một IP mới, giúp người dùng dễ dàng đổi IP khi cần thiết.
 
@@ -36,8 +36,8 @@ Bạn có 2 lựa chọn để sử dụng ứng dụng: Cài đặt bằng file
 
 Nếu bạn đã đóng gói thành công file setup.exe theo hướng dẫn, hãy làm theo các bước sau:
 
-1. Tải file `setup-auto-ip-changer-v3.exe`.
-2. Chạy file `setup-auto-ip-changer-v3.exe`. Trình cài đặt sẽ tự động yêu cầu quyền Admin.
+1. Tải file `setup-auto-ip-changer-v2.exe`.
+2. Chạy file `setup-auto-ip-changer-v2.exe`. Trình cài đặt sẽ tự động yêu cầu quyền Admin.
 3. Làm theo hướng dẫn trên màn hình. Chương trình sẽ được cài đặt vào thư mục Program Files.
 4. Sau khi cài đặt, bạn có thể chạy ứng dụng từ Desktop hoặc Start Menu.
 
